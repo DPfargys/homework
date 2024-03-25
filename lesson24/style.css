@@ -1,0 +1,20 @@
+.ottyag {
+    background-color: rgb(200, 178, 150);
+    width: 240;
+    height: 200;
+    padding: 20;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 10px 4px  rgba(0, 0, 0, 0.55) inset;
+    border-radius: 15px;
+    margin: 5;
+    display: inline-block;
+}
+.fon {
+    background-color: rgb(222, 217, 224);
+    overflow: auto;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border: 1px solid;
+    height: 53%;
+    width: 1200;
+}
